@@ -1,10 +1,6 @@
 package Algorithms.Implementation.easy;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 /**
  * Created by Andrei on 13.08.2017.
