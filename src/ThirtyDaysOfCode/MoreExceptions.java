@@ -16,7 +16,7 @@ class Calculator {
     }
 }
 
-public class more_exceptions {
+public class MoreExceptions {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);

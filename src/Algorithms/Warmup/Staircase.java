@@ -5,7 +5,7 @@ package Algorithms.Warmup;
  */
 import java.util.*;
 
-public class staircase {
+public class Staircase {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

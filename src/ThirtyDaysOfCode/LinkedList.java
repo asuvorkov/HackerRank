@@ -14,7 +14,7 @@ class Node {
     }
 }
 
-public class linked_list {
+public class LinkedList {
     public static  Node insert(Node head,int data) {
         //Complete this method
         display(head);

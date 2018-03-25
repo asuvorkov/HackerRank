@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by Andrei on 16.07.2017.
  */
-public class exceptions_string_to_integer {
+public class ExceptionsStringToInteger {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String S = in.next();

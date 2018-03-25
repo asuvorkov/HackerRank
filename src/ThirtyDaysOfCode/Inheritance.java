@@ -81,7 +81,7 @@ class Student extends Person{
     }
 }
 
-public class inheritance {
+public class Inheritance {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String firstName = scan.next();

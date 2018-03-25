@@ -5,13 +5,13 @@ import java.util.*;
 /**
  * Created by Andrei on 16.07.2017.
  */
-public class queues_and_stacks {
+public class QueuesAndStacks {
     static class Solution {
         // Write your code here.
-        LinkedList queu;
+        java.util.LinkedList queu;
         Stack stack;
         public Solution() {
-            this.queu = new LinkedList();
+            this.queu = new java.util.LinkedList();
             this.stack = new Stack();
         }
 

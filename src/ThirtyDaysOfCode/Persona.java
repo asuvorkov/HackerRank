@@ -1,15 +1,14 @@
 package ThirtyDaysOfCode;
 
-import java.io.*;
 import java.util.*;
 
 /**
  * Created by Andrei on 09.07.2017.
  */
-public class person {
+public class Persona {
     private int age;
 
-    public person(int initialAge) {
+    private Persona(int initialAge) {
         // Add some more code to run some checks on initialAge
         if (initialAge < 0){
             initialAge = 0;
@@ -17,7 +16,7 @@ public class person {
         this.age = initialAge;
     }
 
-    public void amIOld() {
+    private void amIOld() {
         // Write code determining if this person's age is old and print the correct statement:
         if (age == 0){
             System.out.println("Age is not valid, setting age to 0.");
@@ -34,7 +33,7 @@ public class person {
 
     }
 
-    public void yearPasses() {
+    private void yearPasses() {
         // Increment this person's age.
         age++;
     }
@@ -43,7 +42,7 @@ public class person {
         int T = sc.nextInt();
         for (int i = 0; i < T; i++) {
             int age = sc.nextInt();
-            person p = new person(age);
+            Persona p = new Persona(age);
             p.amIOld();
             for (int j = 0; j < 3; j++) {
                 p.yearPasses();

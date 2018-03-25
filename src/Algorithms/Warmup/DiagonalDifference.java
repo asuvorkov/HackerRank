@@ -6,7 +6,7 @@ package Algorithms.Warmup;
 
 import java.util.*;
 
-public class diagonal_difference {
+public class DiagonalDifference {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

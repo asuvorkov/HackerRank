@@ -5,7 +5,7 @@ package Algorithms.Warmup;
  */
 import java.util.*;
 
-public class mini_max_summ {
+public class MinMaxSum {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int[] arr = new int[5];

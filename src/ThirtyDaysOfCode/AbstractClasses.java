@@ -53,7 +53,7 @@ class MyBook extends Book{
 // End class
 }
 
-public class abstract_classes {
+public class AbstractClasses {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String title = scanner.nextLine();

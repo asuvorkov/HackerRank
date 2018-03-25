@@ -5,7 +5,7 @@ package Algorithms.Implementation.easy;
  */
 import java.util.*;
 
-public class grading_students {
+public class GradingStudents {
     static int[] solve(int[] grades){
         // Complete this function
         int mod;

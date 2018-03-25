@@ -5,7 +5,7 @@ package Algorithms.Warmup;
  */
 import java.util.*;
 
-public class birthday_cake {
+public class BirthdayCake {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

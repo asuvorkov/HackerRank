@@ -5,7 +5,7 @@ import java.math.*;
 /**
  * Created by Andrei on 05.07.2017.
  */
-public class operators {
+public class Operators {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double mealCost = scan.nextDouble(); // original meal price

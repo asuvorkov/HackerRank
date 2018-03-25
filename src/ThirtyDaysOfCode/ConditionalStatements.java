@@ -8,7 +8,7 @@ import java.util.regex.*;
 /**
  * Created by Andrei on 05.07.2017.
  */
-public class conditional_statements {
+public class ConditionalStatements {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();

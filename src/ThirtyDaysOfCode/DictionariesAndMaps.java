@@ -6,7 +6,7 @@ import java.io.*;
 /**
  * Created by Andrei on 15.07.2017.
  */
-public class dictionaries_and_maps {
+public class DictionariesAndMaps {
     public static void main(String []arg){
         Scanner in = new Scanner(System.in);
         Map<String, Integer> phoneBook = new HashMap<String, Integer>();

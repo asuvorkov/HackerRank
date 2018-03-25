@@ -11,7 +11,7 @@ import java.util.regex.*;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class extra_long_factorials {
+public class ExtraLongFactorials {
 
     // Returns Factorial of N
     static BigInteger factorial(int N)

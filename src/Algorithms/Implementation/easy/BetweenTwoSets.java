@@ -5,7 +5,7 @@ package Algorithms.Implementation.easy;
  */
 import java.util.*;
 
-public class between_two_sets {
+public class BetweenTwoSets {
     static int getTotalX(int[] a, int[] b){
         // Complete this function
         boolean pass;

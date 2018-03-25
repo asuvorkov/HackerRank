@@ -6,7 +6,7 @@ package Algorithms.Warmup;
 
 import java.util.*;
 
-public class plus_minus {
+public class PlusMinus {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

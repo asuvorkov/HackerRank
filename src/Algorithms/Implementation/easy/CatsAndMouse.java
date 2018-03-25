@@ -5,7 +5,7 @@ package Algorithms.Implementation.easy;
  */
 import java.util.*;
 
-public class cats_and_mouse {
+public class CatsAndMouse {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int q = in.nextInt();

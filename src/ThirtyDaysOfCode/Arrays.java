@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by Andrei on 15.07.2017.
  */
-public class arrays {
+public class Arrays {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

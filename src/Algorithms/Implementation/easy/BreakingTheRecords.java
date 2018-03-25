@@ -5,7 +5,7 @@ package Algorithms.Implementation.easy;
  */
 import java.util.*;
 
-public class breaking_the_records {
+public class BreakingTheRecords {
     static int[] getRecord(int[] s){
         // Complete this function
         int min; int max; int result1 = 0; int result2 = 0;

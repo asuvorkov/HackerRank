@@ -9,7 +9,7 @@ import java.util.regex.*;
 /**
  * Created by Andrei on 15.07.2017.
  */
-public class two_d_arrays {
+public class TwoDArrays {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int arr[][] = new int[6][6];

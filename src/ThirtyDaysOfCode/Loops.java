@@ -9,7 +9,7 @@ import java.util.regex.*;
 /**
  * Created by Andrei on 09.07.2017.
  */
-public class loops {
+public class Loops {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

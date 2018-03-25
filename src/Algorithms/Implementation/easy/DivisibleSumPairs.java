@@ -5,7 +5,7 @@ package Algorithms.Implementation.easy;
  */
 import java.util.*;
 
-public class divisible_sum_pairs {
+public class DivisibleSumPairs {
     static int divisibleSumPairs(int n, int k, int[] ar) {
         // Complete this function
         int output = 0;

@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by Andrei on 15.07.2017.
  */
-public class recursion {
+public class Recursion {
     static int factorial(int n) {
         // Complete this function
         int fact;

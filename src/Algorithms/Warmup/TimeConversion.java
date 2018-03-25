@@ -5,7 +5,7 @@ package Algorithms.Warmup;
  */
 import java.util.*;
 
-public class time_conversion {
+public class TimeConversion {
     public static void main(String[] args) {
         Scanner x = new Scanner(System.in);
         int hours = 0;
